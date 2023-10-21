@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697904096 source:c:\users\potato\desktop\calculator\calc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
